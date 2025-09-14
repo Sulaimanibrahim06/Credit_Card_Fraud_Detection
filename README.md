@@ -74,7 +74,7 @@ Run creditcard_fraud_detection.ipynb in Jupyter or Google Colab.
 
 Execute all cells to load data, preprocess, train models, evaluate performance, and generate plots.
 
-📌 Note: If GitHub fails to render the notebook properly, view it via NBViewer
+📌 Note: If GitHub fails to render the notebook properly, view it via [NBViewer](https://github.com/Sulaimanibrahim06/Credit_Card_Fraud_Detection/blob/main/CreditCardFruadDetection.ipynb)
 .
 
 ## Dependencies
